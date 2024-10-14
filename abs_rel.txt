@@ -1,0 +1,1 @@
+Relative path describes the location of a file relative to the current working directory while Absolute path describes the location from the root directory.
